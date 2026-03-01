@@ -28,6 +28,13 @@ Because discipline > strategy.
 3. Enable Developer Mode
 4. Load unpacked
 5. Select the folder
+## 📸 Screenshots
+
+### 🔒 Locked State
+![Locked](assets/unlock.png)
+
+### 🧩 How to Install
+![Install](assets/upload_chrome_extensions.png)
 
 ## ⚠ Disclaimer
 
