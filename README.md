@@ -30,11 +30,12 @@ Because discipline > strategy.
 5. Select the folder
 ## 📸 Screenshots
 
-### 🔒 Locked State
-![Locked](assets/unlock.png)
 
 ### 🧩 How to Install
 ![Install](assets/upload_chrome_extensions.png)
+
+### 🔒 Locked State
+![Locked](assets/unlock.png)
 
 ## ⚠ Disclaimer
 
