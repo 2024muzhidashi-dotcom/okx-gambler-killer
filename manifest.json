@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "OKX 100x Killer",
+  "version": "2.0.0",
+  "description": "Block high leverage trading on OKX with declaration input.",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://okx.com/*",
+    "https://www.okx.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://okx.com/*",
+        "https://www.okx.com/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
